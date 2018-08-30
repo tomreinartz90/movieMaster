@@ -21,7 +21,6 @@ export class FileDataSource {
    */
   static storeDataToSource( repo: string, data: any ) {
     // @ts-ignore
-    console.log( `[update repo] - [${repo}]` );
     fs.writeFileSync( this.getFileName( repo ), JSON.stringify( data, null, 2 ) );
   }
 }

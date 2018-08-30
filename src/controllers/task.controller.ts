@@ -9,7 +9,7 @@ export default class TaskController {
     if ( req.query && req.query.task ) {
       console.log( req.query.task );
       switch ( req.query.task ) {
-        case 'update-movies':
+        case 'update-movie-files':
           resp = updateLib.indexMovieSources( ["\\\\192.168.1.100\\Multimedia2\\Movies"] );
           break;
         case 'update-series':

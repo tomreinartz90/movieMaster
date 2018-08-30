@@ -7,12 +7,13 @@ export function walkSync( path:string, fileList:SourceFileModel[] = [], basePath
   // let basePath = basePath;
   fileList = fileList || [];
   files.forEach(  ( file ) => {
-    if ( fs.statSync( path + '/' + file ).isDirectory() ) {
-      fileList = walkSync( path + '/' + file, fileList, basePath );
+    const filePath = `${path}/${file}`;
+    if ( fs.statSync( filePath ).isDirectory() ) {
+      fileList = walkSync( filePath, fileList, basePath );
     }
     else {
-
-      fileList.push( {path: path.replace(basePath, ''), file, basePath} );
+      const {birthtime, size} = fs.statSync(filePath);
+      fileList.push( {path: path.replace(basePath, ''), file, basePath, createdDate:birthtime, fileSize:size} );
     }
   } );
 

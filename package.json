@@ -28,9 +28,11 @@
     "nodemon": "^1.17.4",
     "passport": "^0.3.2",
     "q": "^1.4.1",
+    "rxjs": "^6.3.0",
     "serve-favicon": "~2.3.0",
     "tsc": "^1.20150623.0",
-    "typescript": "^3.0.1"
+    "typescript": "^3.0.1",
+    "xhr2": "^0.1.4"
   },
   "devDependencies": {
     "@types/chai": "^4.1.3",
