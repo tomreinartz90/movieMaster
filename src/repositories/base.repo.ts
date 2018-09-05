@@ -1,8 +1,5 @@
 import { FileDataSource } from "./file.dataSource";
 
-const fs = require( 'fs' );
-
-
 /**
  * helper class used to manage data related to a repo
  */
@@ -40,8 +37,10 @@ export abstract class BaseRepo<T> {
    * update a single item in the repo
    */
   updateByKey( obj: T ) {
-    this.state[this.getKey( obj )] = obj;
+    const key = this.getKey( obj );
+    this.state[key] = obj;
     FileDataSource.storeDataToSource( this.repoName, this.state );
+    return this.getByKey( key );
   }
 
   /**

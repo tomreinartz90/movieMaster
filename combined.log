@@ -1,0 +1,574 @@
+[34m[info] [2018-09-03T19:18:24.542Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:18:30.724Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:19:14.153Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:22:12.520Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:23:17.481Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:23:17.484Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:27:28.931Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:27:28.934Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:27:51.735Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:27:51.737Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:28:23.374Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:28:23.377Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:28:25.272Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:28:25.273Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:28:27.271Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:28:27.271Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:28:28.619Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:28:28.619Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:28:30.068Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:28:30.069Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:36:54.559Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:36:54.561Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:36:54.562Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:36:54.563Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:36:57.559Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:36:57.560Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:37:01.767Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:37:01.769Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:37:01.770Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:37:01.772Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:37:03.879Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:37:03.880Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:37:27.336Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:37:27.339Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:37:27.339Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:37:27.341Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:37:30.170Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:37:30.170Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:37:52.196Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:37:52.198Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:37:52.199Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:37:52.200Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:37:54.942Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:37:54.942Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:39:16.318Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:39:16.321Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:39:16.322Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:39:16.323Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:39:18.599Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:39:18.600Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:40:07.926Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:40:07.928Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:40:07.928Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:40:07.929Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:40:10.260Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:40:10.261Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:40:31.311Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:40:31.313Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:40:31.314Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:40:31.315Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:40:33.892Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:40:33.893Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:45:23.098Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:45:23.101Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:45:23.101Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:45:23.102Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:45:26.308Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:45:26.309Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:46:05.435Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:46:06.178Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:46:06.743Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:46:10.161Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:46:10.163Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:46:10.164Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:46:10.165Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:46:12.693Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:46:12.694Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T19:46:16.627Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T19:46:16.629Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T19:46:16.630Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T19:46:16.632Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T19:46:18.172Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T19:46:18.173Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T20:02:47.169Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:02:47.172Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:02:47.173Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:02:47.174Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T20:02:49.928Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-03T20:02:49.928Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T20:10:09.219Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:10:09.223Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:10:09.225Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:10:09.226Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-03T20:11:02.903Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:11:02.905Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:11:02.906Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:11:02.907Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-03T20:11:06.912Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:11:06.915Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:11:06.915Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:11:06.916Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-03T20:12:22.921Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:12:22.924Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:12:22.925Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:12:22.926Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-03T20:12:33.916Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:12:33.919Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:12:33.920Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:12:33.921Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T20:12:33.944Z] [( UpdateLibraryService ) index movie sources completed, found 0 files][39m
+[34m[info] [2018-09-03T20:12:33.946Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T20:12:40.509Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:12:40.511Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:12:40.512Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:12:40.513Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-03T20:12:40.526Z] [( UpdateLibraryService ) index movie sources completed, found 0 files][39m
+[34m[info] [2018-09-03T20:12:40.527Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-03T20:13:31.387Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:13:31.389Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:13:31.390Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:13:31.391Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-03T20:14:16.422Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:14:16.425Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:14:16.426Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:14:16.427Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-03T20:14:44.363Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:14:44.365Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:14:44.366Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:14:44.367Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-03T20:15:03.072Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:15:03.074Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:15:03.075Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:15:03.076Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-03T20:16:20.762Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-03T20:16:20.764Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-03T20:16:20.765Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-03T20:16:20.766Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:25:57.267Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:25:57.272Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:25:57.273Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:25:57.275Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:28:07.630Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:28:07.633Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:28:07.633Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:28:07.635Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:28:42.369Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:28:42.372Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:28:42.373Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:28:42.375Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T18:28:42.380Z] [( UpdateLibraryService ) index movie sources completed, found 0 files][39m
+[34m[info] [2018-09-05T18:28:42.380Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T18:28:53.227Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:28:53.229Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:28:53.230Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:28:53.231Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T18:28:53.237Z] [( UpdateLibraryService ) index movie sources completed, found 0 files][39m
+[34m[info] [2018-09-05T18:28:53.237Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T18:28:59.886Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:28:59.888Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:28:59.889Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:28:59.890Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T18:28:59.895Z] [( UpdateLibraryService ) index movie sources completed, found 0 files][39m
+[34m[info] [2018-09-05T18:28:59.895Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T18:29:01.477Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:29:01.479Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:29:01.480Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:29:01.481Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T18:29:01.486Z] [( UpdateLibraryService ) index movie sources completed, found 0 files][39m
+[34m[info] [2018-09-05T18:29:01.486Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T18:33:43.160Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:33:43.162Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:33:43.163Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:33:43.164Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T18:33:43.168Z] [( UpdateLibraryService ) index movie sources completed, found 0 files][39m
+[34m[info] [2018-09-05T18:33:43.169Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T18:33:55.084Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:33:55.087Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:33:55.087Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:33:55.088Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:34:56.190Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:34:56.192Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:34:56.193Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:34:56.194Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:37:06.911Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:37:06.913Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:37:06.914Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:37:06.915Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:37:57.343Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:37:57.345Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:37:57.346Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:37:57.347Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:38:53.795Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:38:53.798Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:38:53.799Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:38:53.800Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:39:57.712Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:39:57.714Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:39:57.715Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:39:57.716Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:40:02.577Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:40:02.579Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:40:02.580Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:40:02.581Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:43:10.717Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:43:10.719Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:43:10.720Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:43:10.721Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:43:51.902Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:43:51.905Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:43:51.906Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:43:51.907Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:44:35.540Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:44:35.543Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:44:35.543Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:44:35.544Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:45:07.731Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:45:07.733Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:45:07.734Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:45:07.735Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:45:56.308Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:45:56.311Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:45:56.311Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:45:56.312Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:46:11.766Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:46:11.769Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:46:11.770Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:46:11.772Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:47:17.372Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:47:17.374Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:47:17.375Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:47:17.376Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:47:42.498Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:47:42.502Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:47:42.503Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:47:42.505Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:47:45.958Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:47:45.961Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:47:45.962Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:47:45.964Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:48:46.329Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:48:46.331Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:48:46.332Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:48:46.333Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:49:28.268Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:49:28.271Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:49:28.272Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:49:28.273Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:50:39.771Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:50:39.774Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:50:39.774Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:50:39.775Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:56:05.473Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:56:05.475Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:56:05.476Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:56:05.477Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:57:09.600Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:57:09.603Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:57:09.604Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:57:09.605Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:58:21.424Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:58:21.427Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:58:21.428Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:58:21.429Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:58:39.718Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:58:39.721Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:58:39.721Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:58:39.722Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:58:44.730Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:58:44.732Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:58:44.733Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:58:44.734Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:59:00.249Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:59:00.250Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:59:00.251Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:59:00.252Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:59:03.271Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:59:03.273Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:59:03.274Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:59:03.275Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:59:46.251Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:59:46.252Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:59:46.252Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:59:46.255Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T18:59:50.488Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T18:59:50.491Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T18:59:50.492Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T18:59:50.493Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:00:30.863Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:00:30.866Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:00:30.867Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:00:30.868Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:01:06.006Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:01:06.009Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:01:06.010Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:01:06.011Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:01:27.641Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:01:27.644Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:01:27.644Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:01:27.645Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:03:02.380Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:03:02.383Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:03:02.384Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:03:02.385Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:04:39.878Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:04:39.879Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:04:39.880Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:04:39.881Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:05:36.038Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:05:36.041Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:05:36.042Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:05:36.043Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:05:38.500Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:05:38.501Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:05:38.501Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:05:38.503Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:05:40.735Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:05:40.736Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:05:40.736Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:05:40.737Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:05:58.895Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:05:58.897Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:05:58.898Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:05:58.899Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:06:20.744Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:06:20.747Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:06:20.748Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:06:20.749Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:07:12.658Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:07:12.661Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:07:12.662Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:07:12.663Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:08:32.644Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:08:32.646Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:08:32.647Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:08:32.648Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:08:43.186Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:08:43.188Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:08:43.189Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:08:43.191Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:08:54.717Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:08:54.718Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:08:54.718Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:08:54.719Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:11:17.161Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:11:17.164Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:11:17.165Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:11:17.166Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:12:53.757Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:12:53.760Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:12:53.761Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:12:53.762Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:12:58.258Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:12:58.261Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:12:58.261Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:12:58.262Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:13:11.824Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:13:11.827Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:13:11.827Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:13:11.828Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:14:35.316Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:14:35.320Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:14:35.321Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:14:35.322Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:15:29.796Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:15:29.799Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:15:29.799Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:15:29.800Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:18:34.902Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:18:34.905Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:18:34.906Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:18:34.907Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:19:21.262Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:19:21.265Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:19:21.266Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:19:21.267Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:19:22.860Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:19:22.860Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:19:22.861Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:19:22.862Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:20:17.281Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:20:17.283Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:20:17.284Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:20:17.285Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:20:28.020Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:20:28.022Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:20:28.023Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:20:28.024Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:20:30.887Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:20:30.888Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:20:30.888Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:20:30.890Z] [( UpdateLibraryService ) index movie sources started][39m
+[34m[info] [2018-09-05T19:21:44.626Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:21:44.629Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:21:44.630Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:21:44.631Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:21:47.638Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:21:47.638Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:21:50.794Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:21:50.796Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:21:50.797Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:21:50.799Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:21:52.099Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:21:52.099Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:23:08.557Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:23:08.559Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:23:08.560Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:23:08.561Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:23:11.176Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:23:11.177Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:23:29.690Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:23:29.693Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:23:29.693Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:23:29.695Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:23:32.312Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:23:32.312Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:23:39.516Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:23:39.518Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:23:39.519Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:23:39.520Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:23:41.428Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:23:41.429Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:24:09.068Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:24:11.072Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:24:11.074Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:24:11.076Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:24:13.126Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:24:13.126Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:24:17.411Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:24:19.416Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:24:19.418Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:24:19.422Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:24:20.747Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:24:20.747Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:24:30.453Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:24:30.467Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:24:30.468Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:24:30.469Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:24:32.562Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:24:32.562Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:24:38.132Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:24:38.146Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:24:38.147Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:24:38.149Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:24:39.480Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:24:39.480Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:25:22.060Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:25:22.075Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:25:22.076Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:25:22.077Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:25:24.445Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:25:24.445Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:26:17.599Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:26:21.536Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:26:24.205Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:26:24.678Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:26:24.678Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:26:24.680Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:26:26.094Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:26:26.096Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:26:27.284Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:26:30.404Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:26:30.819Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:26:30.820Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:26:30.821Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:26:32.943Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:26:32.944Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:26:34.061Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:26:36.802Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:26:37.205Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:26:37.205Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:26:37.207Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:26:38.728Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:26:38.729Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:27:48.152Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:27:48.157Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:27:48.157Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:27:48.159Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:27:50.590Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:27:50.590Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:34:02.091Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:02.525Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:04.550Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:04.752Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:06.970Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:07.165Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:17.486Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:21.685Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:22.095Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:34:22.095Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:34:22.097Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:34:23.456Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:34:23.456Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:34:23.462Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:23.521Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:32.097Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:32.102Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:34:32.103Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:34:32.105Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:34:34.075Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:34:34.075Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:34:34.080Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:53.391Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:34:59.491Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:35:02.046Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:35:02.454Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:35:02.455Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:35:02.457Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:35:03.830Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:35:03.830Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:35:03.837Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:35:59.627Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:03.161Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:03.559Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:36:03.559Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:36:03.561Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:36:04.915Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:36:04.915Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:36:05.035Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:06.092Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:08.637Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:09.038Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:36:09.038Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:36:09.040Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:36:10.594Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:36:10.594Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:36:18.866Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:21.954Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:22.357Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:36:22.358Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:36:22.359Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:36:23.662Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:36:23.663Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:36:23.690Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:25.000Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:27.475Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:30.021Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:30.423Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:36:30.423Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:36:30.425Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:36:32.411Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:36:32.411Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:36:32.424Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:34.378Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:36.985Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T19:36:37.390Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T19:36:37.391Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T19:36:37.392Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T19:36:38.843Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T19:36:38.844Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T19:46:49.674Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:03:55.625Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:05:23.705Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:06:10.527Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:06:38.522Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:07:41.115Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:08:41.768Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:09:13.145Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:10:51.333Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:11:42.181Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:12:31.890Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:16:18.168Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:16:26.191Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:16:26.196Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T20:16:26.197Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T20:16:26.199Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T20:16:27.627Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T20:16:27.627Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T20:19:50.754Z] [( taskmngr ) update-movie-files][39m
+[34m[info] [2018-09-05T20:19:50.758Z] [( Taskmanager ) new task update-movie-files][39m
+[34m[info] [2018-09-05T20:19:50.759Z] [( Taskmanager ) starting: update-movie-files][39m
+[90m[verbose] [2018-09-05T20:19:50.761Z] [( UpdateLibraryService ) index movie sources started][39m
+[90m[verbose] [2018-09-05T20:19:53.254Z] [( UpdateLibraryService ) index movie sources completed, found 87 files][39m
+[34m[info] [2018-09-05T20:19:53.254Z] [( Taskmanager ) completed: update-movie-files][39m
+[34m[info] [2018-09-05T20:23:28.641Z] [( taskmngr ) update-movie-files][39m

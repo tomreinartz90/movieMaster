@@ -4,4 +4,6 @@ export type SourceFileModel  = {
   basePath:string;
   createdDate:Date;
   fileSize:number;
+  uuid:string;
+
 }

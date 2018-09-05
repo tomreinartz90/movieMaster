@@ -1,33 +1,34 @@
 import { Request, Response } from 'express';
 import { UpdateLibraryService } from "../services/updateLibrary.service";
+import { Appconfig } from "../config/appconfig";
+import { LoggerService } from "../services/logger.service";
+import { Observable } from "rxjs";
+import { taskManager } from "../services/taskmanager.service";
 
 export default class TaskController {
   public static read( req: Request, res: Response, next: Function ): void {
-    const updateLib = new UpdateLibraryService();
-    let resp: any = { error: "to-task-defined" };
-    console.log( req.query );
     if ( req.query && req.query.task ) {
-      console.log( req.query.task );
-      switch ( req.query.task ) {
-        case 'update-movie-files':
-          resp = updateLib.indexMovieSources( ["\\\\192.168.1.100\\Multimedia2\\Movies"] );
-          break;
+      LoggerService.info( 'taskmngr', req.query.task );
+      const taskName = req.query.task;
+      switch ( taskName ) {
         case 'update-series':
-          resp = updateLib.indexSeriesSources( ["\\\\192.168.1.100\\Multimedia2\\Series"] );
+        case 'update-movie-files':
+          //wait at least 30 seconds before a task can run again.
+          if ( !taskManager.getLastDispatcedDate( taskName ) || taskManager.getLastDispatcedDate( taskName ).valueOf() - new Date().valueOf() > 30000 )
+            taskManager.dispatch( taskName );
+          else
+            throw Error( `task ${req.query.task} has already ran recently` );
           break;
         default:
-          resp = { error: `task ${req.query.task} is not available` };
-          break;
+          throw Error( `task ${req.query.task} is not available` );
       }
+    } else {
+      throw Error( "to-task-defined" );
     }
-    // updateLib.indexSeriesSources( ["\\\\192.168.1.100\\Multimedia2\\Series"] );
-    // updateLib.indexMovieSources( ["\\\\192.168.1.100\\Multimedia2\\Movies"] );
-    console.log( resp );
-    res.json( resp );
+    res.json( { msg: 'added task' } );
   }
 
   public static get( req: Request, res: Response ): void {
     res.json( { msg: 'Hello!' } );
-    console.log( req );
   }
 }
